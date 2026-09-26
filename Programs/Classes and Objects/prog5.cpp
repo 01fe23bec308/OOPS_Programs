@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-class rect
+class rectangle
 {
 private:
     int w,l;
@@ -13,14 +13,14 @@ public:
 
 };
 
-void rect :: set_values(int x,int y)
+void rectangle :: set_values(int x,int y)
     {
      w=x;
      l=y;
     }
 int main()
 {
-    rect r1;
+    rectangle r1;
     r1.set_values(5,5);
     cout<<"area= "<<r1.area()<<endl;
     return 0;
