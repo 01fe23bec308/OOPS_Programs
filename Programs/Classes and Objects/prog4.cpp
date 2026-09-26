@@ -1,41 +1,32 @@
-// Write a cpp program , Define class Rectangle with members width and height. Also define function to set_values(w,l)
-// to initialize the members, area() to calculate area. Demonstrate class Rectangle for two objects.
-
 #include<iostream>
 using namespace std;
-
-class Rectangle
+class Time
 {
-    float width,height,a;
+private:
+    int hour,minute,second;
 public:
-    void set_values(float w,float l)
-    {
-        width=w;
-        height=l;
-    }
-
-    void area()
-    {
-        a=width*height;
-    }
-
-    void display()
-    {
-        cout<<"The area of the Rectangle is : "<<a;
-    }
+    void setTime(int,int,int);
+    void print();
 };
-
-
+void Time :: setTime(int hour,int minute,int second)
+{
+    this->hour=hour;
+    this->minute=minute;
+    this->second=second;
+}
+void Time :: print()
+{
+    cout<<"hour: "<<hour<<endl;
+    cout<<"minute: "<<minute<<endl;
+    cout<<"second: "<<second<<endl;
+}
 int main()
 {
-    Rectangle r1;
-    float w,l;
-    cout<<"Enter the Width of the rectangle :"<<endl;
-        cin>>w;
-        cout<<"Enter the Length of the rectangle :"<<endl;
-        cin>>l;
-    r1.set_values(w,l);
-    r1.area();
-    r1.display();
+    Time t1,t2;
+    t1.setTime(1,2,3);
+    t1.print();
+    t2.setTime(4,5,6);
+    t2.print();
     return 0;
 }
+
