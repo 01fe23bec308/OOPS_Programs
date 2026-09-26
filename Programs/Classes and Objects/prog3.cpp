@@ -1,6 +1,6 @@
 // write a c++ program to create a Student Class with data members name, age and display the details using an object.
 
-{Writing the class functions outside of class}
+//{Writing the class functions outside of class}
 
 
 #include<iostream>
