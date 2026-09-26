@@ -19,7 +19,7 @@ Object-Oriented-Programming/
 ├── Programs/
 │   ├── C++ Fundamentals/
 │   ├── Classes and Objects/
-│   ├── Member Functions and Static Members/
+│   ├── Static Members/
 │   ├── Constructors and Destructors  /
 │   ├── Friend Functions/
 │   ├── Inheritance/
@@ -81,8 +81,8 @@ Programs demonstrating object construction and  destruction .
 |---------|---------|
 | `prog_1.cpp`  | Default constructor_employee |
 | `prog_2.cpp` |  Default constructor using mileage |
-| `prog_3.cpp` | Parameterized constructor using Distance class |
-| `prog_4.cpp` | Parameterized constructor using employee class |
+| `prog_3.cpp` | Parameterized constructor using employee class |
+| `prog_4.cpp` | Parameterized constructor using Distance class |
 | `prog_5.cpp` | class rectangle with default, parameterized, and copy constructors |
 
 ---
@@ -93,9 +93,8 @@ Programs covering static member functions and friend functions.
 
 | Program | Concept |
 |---------|---------|
-| `prog_1.cpp` | Friend function accessing private members |
-| `prog_2.cpp` | Friend function parameters |
-| `prog_3.cpp` | Common friend function accessing private data from two classes |
+| `prog_1.cpp` | Friend function accessing private members grom one class |
+| `prog_2.cpp` | Common friend function accessing private data from two classes |
 
 ---
 ## Inheritance
