@@ -61,22 +61,21 @@ Introduction to classes, objects, member functions, and defining functions outsi
 
 
 ---
-## Member Functions and Static Members
+##  Static Members
 
-Programs covering class-based data handling, object interaction, and constructors.
+Programs covering class-based data handling, object interaction, and static members shared among objects..
 
 | Program | Concept |
 |---------|---------|
-| `prog_1.cpp` | Time class and addition of two time objects |
-| `prog_2.cpp` | Addition of two complex numbers using objects |
-| `prog_3.cpp` | Static data member shared by multiple objects |
-| `prog_4.cpp` | Static counter with separate employee ID |
+| `prog_1.cpp` | static data member demo |
+| `prog_2.cpp` | Static data member count |
+| `prog_3.cpp` | Static counter with separate employee ID |
 
 
 ---
 ## Constructor and Destructors 
 
-Programs demonstrating object destruction and static members shared among objects.
+Programs demonstrating object construction and  destruction .
 
 | Program | Concept |
 |---------|---------|
