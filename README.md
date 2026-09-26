@@ -28,7 +28,7 @@ Object-Oriented-Programming/
 ```
 # 📚 Class-wise Programs
 
-##  C++ Fundamentals
+##  C++ Basics
 
 Programs covering basic C++ syntax, input/output, data types, strings, and parameter passing.
 
