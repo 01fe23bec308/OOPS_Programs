@@ -79,11 +79,11 @@ Programs demonstrating object construction and  destruction .
 
 | Program | Concept |
 |---------|---------|
-| `prog_.cpp` | Default constructor_employee |
-| `prog_4.cpp` | Default and parameterized constructors |
-| `prog_5.cpp` | Parameterized constructor using Distance class |
-| `prog_6.cpp` | Default, parameterized, and copy constructors |
-| `prog_1.cpp` | Destructor with default, parameterized, and copy constructors |
+| `prog_1.cpp`  | Default constructor_employee |
+| `prog_2.cpp` |  Default constructor using mileage |
+| `prog_3.cpp` | Parameterized constructor using Distance class |
+| `prog_4.cpp` | Parameterized constructor using employee class |
+| `prog_5.cpp` | class rectangle with default, parameterized, and copy constructors |
 
 ---
 
