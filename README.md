@@ -55,9 +55,9 @@ Introduction to classes, objects, member functions, and defining functions outsi
 |---------|---------|
 | `prog_1.cpp` | Creating a class and object |
 | `prog_2.cpp` | Student class with data members and member functions |
-| `prog_3.cpp` | Defining a member function outside the class |
-| `prog_4.cpp` | Rectangle class and area calculation |
-| `prog_5.cpp` | Rectangle program with a function returning area |
+| `prog_3.cpp` | scope resolution _class_student |
+| `prog_4.cpp` | scope resolution_class_mileage |
+
 
 ---
 ## Member Functions and Static Members
