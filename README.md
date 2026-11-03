@@ -111,8 +111,6 @@ Introduction to inheritance and multi-level inheritance.
 | `prog_4.cpp` | Multi-level inheritance using Vehicle, Car, and SportsCar |
 | `prog_5.cpp` | Multi-level inheritance using protected members |
 
-# OOPS_Elective
-
 ## Runtime Polymorphism, Abstract Classes, and Operator Overloading
 
 Introduction to runtime polymorphism, abstract classes, and operator overloading.
