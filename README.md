@@ -127,6 +127,20 @@ Introduction to runtime polymorphism, abstract classes, and operator overloading
 | `prog_8.cpp` | Unary decrement operator overloading in Counter |
 | `prog_9.cpp` | Operator overloading for complex number addition ||
 
+
+## String Operator Overloading and Exception Handling
+
+Introduction to string operator overloading and exception handling in C++.
+
+| Program | Concept |
+|---------|---------|
+| `prog_1.cpp` | Operator overloading for string concatenation |
+| `prog_2.cpp` | Exception handling in C++ |
+| `prog_3.cpp` | Exception handling for zero multiplication |
+| `prog_4.cpp` | Exception handling for multiplication |
+| `prog_5.cpp` | Exception handling for division by zero |
+| `prog_6.cpp` | Exception handling for division by zero |
+
 ---
 ## 🛠️ Language and Tools
 
