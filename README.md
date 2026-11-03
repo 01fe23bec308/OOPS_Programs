@@ -25,6 +25,7 @@ Object-Oriented-Programming/
 │   ├── Inheritance/
 │   ├── Runtime Polymorphism, Abstract Classes, and Operator Overloading/
 |   ├──String Operator Overloading and Exception Handling
+|   ├──Virtual Base Classes and Function Overriding
 └── README.md
 ```
 # 📚 Class-wise Programs
@@ -141,6 +142,18 @@ Introduction to string operator overloading and exception handling in C++.
 | `prog_4.cpp` | Exception handling for multiplication |
 | `prog_5.cpp` | Exception handling for division by zero |
 | `prog_6.cpp` | Exception handling for division by zero |
+
+
+## Virtual Base Classes and Function Overriding
+
+Introduction to virtual base classes and function overriding in C++.
+
+| Program | Concept |
+|---------|---------|
+| `prog_1.cpp` | Implement virtual base classes and function overriding |
+| `prog_2.cpp` | Program to demonstrate virtual base classes |
+| `prog_3.cpp` | Program demonstrating virtual base classes |
+| `prog_4.cpp` | Implement virtual base classes with function overriding |
 
 ---
 ## 🛠️ Language and Tools
